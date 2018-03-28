@@ -1,7 +1,7 @@
 {
-    "name": "FFmpegOut.Editor",
+    "name": "jp.keijiro.ffmpeg-out.Editor",
     "references": [
-        "FFmpegOut"
+        "jp.keijiro.ffmpeg-out.Runtime"
     ],
     "optionalUnityReferences": [],
     "includePlatforms": [

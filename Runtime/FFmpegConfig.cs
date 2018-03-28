@@ -7,7 +7,7 @@ namespace FFmpegOut
         public static string BinaryPath
         {
             get {
-                var basePath = "Packages/jp.keijiro.ffmpegout/Assets/FFmpegOut/Internal/Executables";
+                var basePath = "Packages/jp.keijiro.ffmpeg-out/Resources/Executables";
                 
                 if (Application.platform == RuntimePlatform.OSXPlayer ||
                     Application.platform == RuntimePlatform.OSXEditor)
