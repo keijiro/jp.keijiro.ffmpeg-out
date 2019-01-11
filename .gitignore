@@ -7,11 +7,3 @@ Desktop.ini
 
 # Vim
 *.swp
-
-# Unity
-/Library
-/Temp
-/UnityPackageManager
-/Packages
-
-/Extras/backup

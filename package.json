@@ -1,8 +1,9 @@
 {
     "name": "jp.keijiro.ffmpeg-out",
     "displayName": "FFmpegOut",
-    "version": "0.0.1",
-    "unity": "2018.1",
-    "description": "FFmpegOut is a Unity plugin that records and exports rendered frames in Unity to a video file by using FFmpeg as a video encoder.",
+    "version": "1.0.2",
+    "unity": "2018.3",
+    "author": "Keijiro Takahashi",
+    "description": "Video capture plugin with FFmpeg.",
     "dependencies": { }
 }
