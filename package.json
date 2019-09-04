@@ -1,9 +1,13 @@
 {
-    "name": "jp.keijiro.ffmpeg-out",
-    "displayName": "FFmpegOut",
-    "version": "1.0.2",
-    "unity": "2018.3",
     "author": "Keijiro Takahashi",
+    "dependencies": { },
     "description": "Video capture plugin with FFmpeg.",
-    "dependencies": { }
+    "displayName": "FFmpegOut",
+    "keywords": [ "unity" ],
+    "license": "SEE LICENSE IN LICENSE",
+    "name": "jp.keijiro.ffmpeg-out",
+    "repository": "github:keijiro/jp.keijiro.ffmpeg-out",
+    "unity": "2018.3",
+    "unityRelease": "0f1",
+    "version": "1.0.2"
 }
